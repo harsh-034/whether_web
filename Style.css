@@ -1,0 +1,18 @@
+ body {
+      background: linear-gradient(to right, #74ebd5, #acb6e5);
+      font-family: 'Segoe UI', sans-serif;
+    }
+    .weather-card {
+      background: white;
+      border-radius: 1rem;
+      padding: 2rem;
+      box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+      transition: transform 0.3s ease;
+    }
+    .weather-card:hover {
+      transform: scale(1.02);
+    }
+    .weather-img {
+      width: 100px;
+      height: 100px;
+    }
