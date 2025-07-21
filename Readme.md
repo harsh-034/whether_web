@@ -19,7 +19,8 @@ This is a simple and clean weather website that shows real-time weather informat
 ## 📸 Preview
 
 ![Homepage](image/image.png)
-[Homepage](image/weather.jpg)
+### 📱 After Search View
+![After Search View](image/weather.jpg)
 
 ## 🔧 How to Use
 
