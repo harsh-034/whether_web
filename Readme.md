@@ -2,6 +2,13 @@
 
 This is a simple and clean weather website that shows real-time weather information using the OpenWeatherMap API. You can check the temperature, weather conditions, humidity, and wind speed for any city.
 
+## 💥 Live Now – Don’t Miss It!
+
+[🚀 **Launch the App Instantly** 🔗](https://your-live-site.netlify.app)
+
+> 🎬 Dive into the experience. Click and explore the app like never before!
+
+
 ## 🚀 Features
 
 - 🔍 Search weather by city name  
